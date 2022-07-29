@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Alvaro
-- 👀 I’m interested in learn anything
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on anything
+- 👋 Hi
 
 <!---
 Alvarop-cpu/Alvarop-cpu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
